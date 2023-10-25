@@ -2,7 +2,6 @@ extern crate cssparser;
 extern crate phf;
 
 use std::collections::HashMap;
-use std::thread::current;
 use cssparser::{ParseError, Parser, ParserInput, Token};
 
 // Outputs the inside of a declaration as a string. Expected form is `a: b;`
