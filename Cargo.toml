@@ -7,4 +7,3 @@ edition = "2021"
 
 [dependencies]
 cssparser = "0.33.0"
-phf = "0.11.2"

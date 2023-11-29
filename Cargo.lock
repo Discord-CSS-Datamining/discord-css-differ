@@ -30,7 +30,6 @@ name = "discord-css-parser"
 version = "0.1.0"
 dependencies = [
  "cssparser",
- "phf",
 ]
 
 [[package]]
